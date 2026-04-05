@@ -65,7 +65,6 @@ const Services = () => {
           <h2>Frontend</h2>
           {/* <p> */}
           <motion.ul>
-            <motion.li><img src="/flutter.png" alt="" height={30} /> <span>Flutter</span></motion.li>
             <motion.li><img src="/react.png" alt="" height={30} /> <span>React</span></motion.li>
             <motion.li><img src="js.png" alt="" height={30} /> <span >JavaScript</span></motion.li>
             <motion.li><img src="html.png" alt="" height={30} /> <span >HTML</span></motion.li>

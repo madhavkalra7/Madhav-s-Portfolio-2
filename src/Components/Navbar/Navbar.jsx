@@ -1,7 +1,7 @@
 import Sidebar from "../sidebar/Sidebar";
 import "./navbar.scss";
 import { motion } from "framer-motion";
-import karan_resume from "/karan_resume.pdf";
+import madhav_resume from "/madhav_resume.pdf";
 
 const Navbar = () => {
   return (
@@ -27,7 +27,7 @@ const Navbar = () => {
           <a href="https://www.instagram.com/madhavkalra._" rel="noopener noreferrer" target="_blank">
             <img src="/instagram.png" alt="" />
           </a>
-          <a href={karan_resume} download="Karan_Resume" rel="noopener noreferrer" target='_blank'>
+          <a href={madhav_resume} download="Madhav_Resume" rel="noopener noreferrer" target='_blank'>
             <img src="/pdf.png" alt="" />
           </a>
         </div>

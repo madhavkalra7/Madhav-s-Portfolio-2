@@ -1,6 +1,6 @@
 import "./hero.scss";
 import { motion } from "framer-motion";
-import karan_resume from "/karan_resume.pdf";
+import madhav_resume from "/madhav_resume.pdf";
 
 const textVariants = {
   initial: {
@@ -59,7 +59,7 @@ const Hero = () => {
                 View My Work
               </motion.button>
             </a>
-            <a href={karan_resume} download="Karan_Resume" rel="noopener noreferrer" target='_blank'>
+            <a href={madhav_resume} download="Madhav_Resume" rel="noopener noreferrer" target='_blank'>
               <motion.button variants={textVariants}>
                 Download CV
               </motion.button>
@@ -84,10 +84,10 @@ const Hero = () => {
         initial="initial"
         animate="animate"
       >
-        <img src="/flutter.png" alt="" height={100} /> <span>Flutter</span>
+        <img src="/python.png" alt="" height={100} /> <span>Python</span>
         <img src="/react.png" alt="" height={100} /> <span>React</span>
-        <img src="js.png" alt="" height={100} /> <span >JavaScript</span>
-        <img src="/c++.png" alt="" height={100} /> <span >C++</span>
+        <img src="/js.png" alt="" height={100} /> <span >JavaScript</span>
+        <img src="/java.png" alt="" height={100} /> <span >Java</span>
         <img src="/github.png" alt="" height={100} /> <span>GitHub</span>
       </motion.div>
       <div className="imageContainer">
