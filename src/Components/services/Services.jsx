@@ -37,8 +37,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I am a <motion.b whileHover={{ color: "orange" }}>Flutter</motion.b> and{" "} <motion.b whileHover={{ color: "orange" }}>Web</motion.b> Developer
-          <br /> Currently a <b>Final Year Student</b> pursuing <br />Bachelor of Technology (Majors in Computer Science)<br /> from Inderprastha Engineering College, Ghaziabad.
+          I am a <motion.b whileHover={{ color: "orange" }}>Agentic AI</motion.b> and{" "} <motion.b whileHover={{ color: "orange" }}>Web</motion.b> Developer
+          <br /> Currently a <b>Pre Final Year Student</b> pursuing <br />Bachelor of Engineering (Computer Science In Artificial Intelligence)<br /> from Chitkara University, Punjab.
         </p>
         <hr />
       </motion.div>

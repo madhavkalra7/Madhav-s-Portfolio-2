@@ -18,13 +18,13 @@ const Navbar = () => {
           Madhav&apos;s Portfolio
         </motion.span>
         <div className="social">
-          <a href="https://github.com/karan-17/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/madhavkalra7" target="_blank" rel="noopener noreferrer">
             <img src="/github.png" alt="" />
           </a>
-          <a href="https://linkedin.com/karan-v-270102" rel="noopener noreferrer" target="_blank">
+          <a href="https://www.linkedin.com/in/madhav-kalra" rel="noopener noreferrer" target="_blank">
             <img src="/LinkedIn.png" alt="" />
           </a>
-          <a href="https://instagram.com/_karan_17_" rel="noopener noreferrer" target="_blank">
+          <a href="https://www.instagram.com/madhavkalra._" rel="noopener noreferrer" target="_blank">
             <img src="/instagram.png" alt="" />
           </a>
           <a href={karan_resume} download="Karan_Resume" rel="noopener noreferrer" target='_blank'>
